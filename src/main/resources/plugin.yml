@@ -1,0 +1,12 @@
+name: TreasureHunt
+main: io.github.jisaacs1207.treasurehunt.TreasureHunt
+version: 1.0
+author: jisaacs1207
+website: http://fivekingdoms.net
+depend: [Vault,WorldGuard,WorldEdit]
+description: >
+             Pirate booty is dropped every so often.
+
+commands:
+   th:
+      description: Test
